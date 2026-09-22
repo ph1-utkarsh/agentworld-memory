@@ -1,0 +1,23 @@
+{
+  "train_templates": [
+    "direct"
+  ],
+  "test_template": "passive",
+  "test_seeds": [
+    100,
+    149
+  ],
+  "horizons": [
+    20,
+    40,
+    80
+  ],
+  "budgets": [
+    2,
+    4
+  ],
+  "bootstrap_samples": 2000,
+  "paid_spend": 0,
+  "model_calls": 0,
+  "interpretation": "exact parser isolates retention; not an LLM or vision evaluation"
+}

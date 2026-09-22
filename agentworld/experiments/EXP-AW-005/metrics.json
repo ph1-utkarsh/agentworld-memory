@@ -1,0 +1,17 @@
+{
+  "long_horizon_budget4_means": {
+    "full_context": 1.0,
+    "sliding_window": 0.5575,
+    "vector_retrieval": 1.0,
+    "summaries": 1.0,
+    "episodic_memory": 1.0,
+    "hierarchical_memory": 1.0
+  },
+  "attempt1_mean": 0.25,
+  "reflection_same_evidence_mean": 0.25,
+  "attempt2_failure_memory_mean": 1.0,
+  "clean_vision_mean": 1.0,
+  "adversarial_vision_mean": 0.2475,
+  "paid_spend": 0,
+  "interpretation": "exact generated domain; full/vector storage not memory-budget matched, retrieval context is"
+}

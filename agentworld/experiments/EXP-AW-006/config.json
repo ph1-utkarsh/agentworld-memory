@@ -1,0 +1,24 @@
+{
+  "test_seeds": [
+    200,
+    299
+  ],
+  "template": "passive",
+  "horizons": [
+    20,
+    80
+  ],
+  "budgets": [
+    2,
+    4
+  ],
+  "policies": [
+    "full_context",
+    "sliding_window",
+    "vector_retrieval",
+    "summaries",
+    "episodic_memory",
+    "hierarchical_memory"
+  ],
+  "paid_spend": 0
+}
