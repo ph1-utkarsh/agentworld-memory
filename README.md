@@ -1,5 +1,7 @@
 # AgentWorld
 
+[![tests](https://github.com/ph1-utkarsh/agentworld-memory/actions/workflows/tests.yml/badge.svg)](https://github.com/ph1-utkarsh/agentworld-memory/actions/workflows/tests.yml) [![license: MIT](https://img.shields.io/badge/license-MIT-c9ff3d.svg)](LICENSE)
+
 **A procedural multimodal benchmark for measuring memory, failure learning and long-horizon agent behavior.**
 
 AgentWorld generates symbolic and raster warehouse environments with exact graders. Six memory strategies receive the same observations and action budget, making it possible to isolate when memory—not extra evidence—changes an agent’s result.
