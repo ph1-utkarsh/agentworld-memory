@@ -69,4 +69,4 @@ The current agent is an exact controlled policy, not a learned vision-language m
 
 ## License
 
-MIT © 2026 Sanjay Bisen.
+MIT © 2026 Utkarsh Sharma.
